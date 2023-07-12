@@ -1,13 +1,27 @@
 let logos = {
-    "lspd": "./logos/lspd.png",
-    "emt": "./logos/emt.png",
-    "doj": "./logos/doj.png",
+    "lspd": "./images/lspd.png",
+    "emt": "./images/emt.png",
+    "doj": "./images/doj.png",
+    "aiad": "./images/aiad.png",
+    "dtu": "./images/dtu.png",
+    "lspd2": "./images/lspd2.png",
+    "sahp": "./images/sahp.png",
+    "usms": "./images/usms.png",
+    "swat": "./images/swat.png",
+    "bsco": "./images/bsco.png"
 }
 
 let departamentsText = {
     "lspd": "Los Santos Police Department",
+    "lspd2": "Los Santos Police Department",
     "emt": "Emergency Medical Technician",
-    "doj": "Los Santos Department Of Justice"
+    "doj": "Los Santos Department Of Justice",
+    "aiad": "Administrative Internal Affairs Division",
+    "dtu": "Los Santos Police Department Detective Unit",
+    "sahp": "San Andreas Highway Patrol",
+    "usms": "United States Marshals Service",
+    "swat": "Special Weapons And Tactics",
+    "bsco": "Blaine County Sheriff's Office"
 }
 
 let select = 'lspd'
