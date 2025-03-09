@@ -1,14 +1,14 @@
 let logos = {
-    "lspd": "./images/lspd.png",
-    "emt": "./images/emt.png",
-    "doj": "./images/doj.png",
-    "aiad": "./images/aiad.png",
-    "dtu": "./images/dtu.png",
-    "lspd2": "./images/lspd2.png",
-    "sahp": "./images/sahp.png",
-    "usms": "./images/usms.png",
-    "swat": "./images/swat.png",
-    "bsco": "./images/bsco.png"
+    "lspd": "./logos/lspd.png",
+    "emt": "./logos/emt.png",
+    "doj": "./logos/doj.png",
+    "aiad": "./logos/aiad.png",
+    "dtu": "./logos/dtu.png",
+    "lspd2": "./logos/lspd2.png",
+    "sahp": "./logos/sahp.png",
+    "usms": "./logos/usms.png",
+    "swat": "./logos/swat.png",
+    "bsco": "./logos/bsco.png"
 }
 
 let departamentsText = {
